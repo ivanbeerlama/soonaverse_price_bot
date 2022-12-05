@@ -31,7 +31,7 @@ node bot.mjs [token-address]
 
 ## Disclaimer
 
-I'm not affiliated with any NFT or Token project on Soonaverse nor Soonaverse itself. I've create the bot for fun to give something back to the community :-) The code might contain bugs and the rarity calculation may not be accurate for each project. Use the bot at your own risk!
+I'm not affiliated with any NFT or Token project on Soonaverse nor Soonaverse itself. I've create the bot for fun to give something back to the community :-) The code might contain bugs and may not be accurate for each project. Use the bot at your own risk!
 
 ## Donation
 
